@@ -1,0 +1,25 @@
+{
+   "title":"[Takemasa Takeshi] Thrill",
+   "description":"",
+   "author":"Takemasa Takeshi",
+   "artist":"Takemasa Takeshi",
+   "cover":"https://i.imgur.com/EdeQy3C.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/kxOXRiR"
+         },
+         "last_updated":1624606143,
+         "title":"Thrill",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/CuYXMyF"
+         },
+         "last_updated":1624606143,
+         "title":"Thrill ~Revenge~",
+         "volume":"2"
+      }
+   }
+}
