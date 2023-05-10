@@ -1,0 +1,25 @@
+{
+   "title":"[Takemasa Takeshi] Connection",
+   "description":"",
+   "author":"Takemasa Takeshi",
+   "artist":"Takemasa Takeshi",
+   "cover":"https://i.imgur.com/xOLUv4f.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/9JcA5Sm"
+         },
+         "last_updated":1624606143,
+         "title":"Connection",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/zlN2Ojt"
+         },
+         "last_updated":1624606143,
+         "title":"Connection ~Summer Days~",
+         "volume":"2"
+      }
+   }
+}
